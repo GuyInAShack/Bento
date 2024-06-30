@@ -187,7 +187,7 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
+					name: 'Spotify ',
 					link: 'https://www.spotify.com',
 				},
 				{
